@@ -7,7 +7,7 @@
   "content_scripts": [
     {
       "js": ["timeout-check.js"],
-      "matches": ["*://ccadmin-test-zcma.oracleoutsourcing.com/*"]
+      "matches": ["*://*.oracleoutsourcing.com/*"]
     }
   ],
   "icons": {
